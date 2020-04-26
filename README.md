@@ -1,5 +1,4 @@
 # Marketing-Campaign-Analysis
-Checking the performance of campaigns on different marketing channels among control &amp; experiment groups
 
 **Project Objective**: Checking the performance of campaigns on different marketing channels among control & experiment groups and also among different age groups and investigate reasons for high performance or underperformance of channels.
 
